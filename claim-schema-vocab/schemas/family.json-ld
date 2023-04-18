@@ -6,13 +6,13 @@
         "id": "@id",
         "type": "@type",
         "FamilyTree": {
-            "@id": "http://localhost:8080/claim-schema-vocab/schemas/family.json-ld#FamilyTree",
+            "@id": "https://raw.githubusercontent.com/javip97/json-schemas/main/claim-schema-vocab/schemas/family.json-ld#FamilyTree",
             "@context": {
             "@version": 1.1,
             "@protected": true,
             "id": "@id",
             "type": "@type",
-            "vocab": "http://localhost:8080/claim-schema-vocab/blob/family.md#",
+            "vocab": "https://raw.githubusercontent.com/javip97/json-schemas/main/claim-schema-vocab/blob/family.md#",
             "xsd": "http://www.w3.org/2001/XMLSchema#",
             "grandfather": {
                 "@id": "vocab:grandfather",
