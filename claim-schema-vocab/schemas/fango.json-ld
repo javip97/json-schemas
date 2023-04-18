@@ -1,0 +1,25 @@
+{
+    "@context": [
+      {
+        "@version": 1.1,
+        "@protected": true,
+        "id": "@id",
+        "type": "@type",
+        "FanGo": {
+          "@id": "http://localhost:8080/claim-schema-vocab/schemas/fango.json-ld#FanGo",
+          "@context": {
+            "@version": 1.1,
+            "@protected": true,
+            "id": "@id",
+            "type": "@type",
+            "vocab": "http://localhost:8080/claim-schema-vocab/blob/fango.md#",
+            "xsd": "http://www.w3.org/2001/XMLSchema#",
+            "fan": {
+              "@id": "vocab:fan",
+              "@type": "xsd:boolean"
+            }
+          }
+        }
+      }
+    ]
+  }
