@@ -3,7 +3,7 @@
     "type": "object",
     "$metadata": {
       "uris": {
-        "jsonLdContext": "http://localhost:8080/claim-schema-vocab/schemas/family.json-ld",
+        "jsonLdContext": "https://raw.githubusercontent.com/javip97/json-schemas/main/claim-schema-vocab/schemas/family.json-ld",
         "jsonSchema": "http://localhost:8080/credential-schema/family.json"
       }
     },
