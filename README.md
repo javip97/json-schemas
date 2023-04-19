@@ -1,1 +1,1 @@
-Schemas done by @martinsaporiti
+Schemas done by https://github.com/martinsaporiti
