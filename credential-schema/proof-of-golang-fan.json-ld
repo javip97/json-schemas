@@ -4,7 +4,7 @@
     "$metadata": {
       "uris": {
         "jsonLdContext": "https://raw.githubusercontent.com/javip97/json-schemas/main/claim-schema-vocab/schemas/fango.json-ld",
-        "jsonSchema": "https://raw.githubusercontent.com/javip97/json-schemas/main/credential-schema/proof-of-golang-fan.json"
+        "jsonSchema": "https://raw.githubusercontent.com/javip97/json-schemas/main/credential-schema/proof-of-golang-fan.json-ld"
       }
     },
     "required": [
