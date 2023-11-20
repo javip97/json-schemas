@@ -6,7 +6,7 @@
         "id": "@id",
         "type": "@type",
         "FanGo": {
-          "@id": "https://raw.githubusercontent.com/javip97/json-schemas/main/claim-schema-vocab/schemas/fango.json-ld#FanGo",
+          "@id": "https://raw.githubusercontent.com/javip97/json-schemas/main/claim-schema-vocab/schemas/fango.jsonld#FanGo",
           "@context": {
             "@version": 1.1,
             "@protected": true,
